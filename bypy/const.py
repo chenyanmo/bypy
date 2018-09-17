@@ -164,7 +164,7 @@ MaxListEntries = 1000 # https://github.com/houtianze/bypy/issues/285
 ### Auth servers
 GaeUrl = 'https://bypyoauth.appspot.com'
 #OpenShiftUrl = 'https://bypy-tianze.rhcloud.com'
-OpenShiftUrl = 'https://bypyoauth-route-bypy.a3c1.starter-us-west-1.openshiftapps.com'
+OpenShiftUrl = 'http://bypyoauth-route-bypy.a3c1.starter-us-west-1.openshiftapps.com'
 HerokuUrl = 'https://bypyoauth.herokuapp.com'
 Heroku1Url = 'https://bypyoauth1.herokuapp.com'
 GaeRedirectUrl = GaeUrl + '/auth'
